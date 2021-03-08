@@ -6,7 +6,7 @@ A REST API with flask and mongoDB.
 
 In this application the below technologies and libraries were used:
 
-- Python 3
+- Python3
 - flask
 - pymongo
 - Flask-PyMongo
